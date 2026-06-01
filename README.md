@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0344-reverse-string) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
