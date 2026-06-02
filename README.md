@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0209-minimum-size-subarray-sum) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -88,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0713-subarray-product-less-than-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
