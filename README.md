@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0977-squares-of-a-sorted-array) |
 ## Tree
 |  |
@@ -118,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
