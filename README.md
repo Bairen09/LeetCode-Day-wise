@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0977-squares-of-a-sorted-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0876-middle-of-the-linked-list) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0713-subarray-product-less-than-k) |
 ## Greedy
 |  |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
