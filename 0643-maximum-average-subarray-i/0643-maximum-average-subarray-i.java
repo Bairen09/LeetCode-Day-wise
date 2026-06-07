@@ -4,7 +4,7 @@ class Solution {
         double avg=0,maxAvg=Integer.MIN_VALUE;
         while(right<nums.length){
             sum+=nums[right];
-            if(right-left==k-1){
+            if(right-left+1==k){
                 avg=(double)sum/k;
                 sum-=nums[left];
                 left++;
