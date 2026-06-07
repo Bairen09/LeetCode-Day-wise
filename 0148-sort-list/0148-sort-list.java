@@ -13,39 +13,44 @@ class Solution {
         if(head==null|| head.next==null){
             return head;
         }
+        System.out.println(head.val);
+        ListNode mid=middle(head);
+        ListNode right=mid.next;
+        mid.next=null;
+
+        ListNode left=sortList(head);
+        right=sortList(right);
+        return merge(left, right);
+    }
+    public ListNode middle(ListNode head){
         ListNode slow=head;
         ListNode fast=head;
-        ListNode prev=null;
-        while(fast!=null && fast.next!=null){
-            prev=slow;
+        while(fast.next!=null&& fast.next.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
-        prev.next=null;
-        ListNode a=sortList(head);
-        ListNode b=sortList(slow);
-        return merge(a,b);
+        return slow;
     }
-    public ListNode merge(ListNode a, ListNode b){
-        ListNode dummy=new ListNode(0);
-        ListNode temp=dummy;
-        while(a!=null&& b!=null){
-            if(a.val<b.val){
-                temp.next=a;
-                a=a.next;
+    public ListNode merge(ListNode left, ListNode right){
+        ListNode result1=new ListNode(-1);
+        ListNode result=result1;
+        while(left!=null && right!=null){
+            if(right.val>left.val){
+                result.next=left;
+                left=left.next;
             }
             else{
-                temp.next=b;
-                b=b.next;
+                result.next=right;
+                right=right.next;
             }
-            temp=temp.next;
+            result=result.next;
         }
-        if(a!=null){
-            temp.next=a;
+        if(left!=null){
+            result.next=left;
         }
-        else{
-            temp.next=b;
+        if(right!=null){
+            result.next=right;
         }
-        return dummy.next;
+        return result1.next;
     }
 }
