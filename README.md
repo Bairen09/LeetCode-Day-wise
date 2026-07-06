@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0643-maximum-average-subarray-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0713-subarray-product-less-than-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
