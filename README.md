@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0287-find-the-duplicate-number) |
