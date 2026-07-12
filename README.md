@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1669-merge-in-between-linked-lists) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
