@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
