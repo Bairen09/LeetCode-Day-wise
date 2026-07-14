@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1029-two-city-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1029-two-city-scheduling) |
 ## Counting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
+| [1029-two-city-scheduling](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
 |  |
 | ------- |
