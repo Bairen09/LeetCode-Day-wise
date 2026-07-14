@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0763-partition-labels) |
 | [0845-longest-mountain-in-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0977-squares-of-a-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0763-partition-labels) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
+| [0763-partition-labels](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0763-partition-labels) |
 | [1029-two-city-scheduling](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
 |  |
