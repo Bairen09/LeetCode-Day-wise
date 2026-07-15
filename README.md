@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0287-find-the-duplicate-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0406-queue-reconstruction-by-height) |
+| [0416-partition-equal-subset-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0643-maximum-average-subarray-i) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
 | [0845-longest-mountain-in-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0845-longest-mountain-in-array) |
 ## Stack
