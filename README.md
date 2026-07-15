@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0763-partition-labels) |
+| [1143-longest-common-subsequence](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
 | [0845-longest-mountain-in-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0845-longest-mountain-in-array) |
+| [1143-longest-common-subsequence](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
