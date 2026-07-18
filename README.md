@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0763-partition-labels) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
