@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0845-longest-mountain-in-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0763-partition-labels) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1029-two-city-scheduling) |
 ## Counting
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0763-partition-labels) |
 | [1029-two-city-scheduling](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1029-two-city-scheduling) |
 ## Sliding Window
@@ -258,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
