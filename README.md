@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1046-last-stone-weight) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0621-task-scheduler) |
+| [0973-k-closest-points-to-origin](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1029-two-city-scheduling) |
 ## Counting
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -266,12 +270,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -290,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
