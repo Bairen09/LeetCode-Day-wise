@@ -4,25 +4,26 @@ class Solution {
         int dp[]=new int[amount+1];
         Arrays.fill(dp,-2);
         int result=solve(coins,amount,dp);
-        return result==Integer.MAX_VALUE?-1:result;
+        return result;
     }
-    public int solve(int[]coins,int amount,int[]dp){
+    public int solve(int[]coins, int amount,int[]dp){
         if(amount==0){
             return 0;
         }
-        if(amount<0){
-            return Integer.MAX_VALUE;
+        if(amount<=0){
+            return -1;
         }
         if(dp[amount]!=-2){
             return dp[amount];
         }
-        int min=Integer.MAX_VALUE;
-        for(int coin: coins){
-            int ans= solve(coins,amount-coin,dp);
-            if(ans!=Integer.MAX_VALUE){
-                min=Math.min(min,ans+1);
+        int best=Integer.MAX_VALUE;
+        for(int c:coins){
+            int ans=solve(coins,amount-c,dp);
+            if(ans>=0){
+                best=Math.min(best, ans+1);
             }
         }
-        return dp[amount]=min;
+        dp[amount]=(best==Integer.MAX_VALUE)?-1:best;
+        return dp[amount];
     }
 }
