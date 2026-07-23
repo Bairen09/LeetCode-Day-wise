@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0198-house-robber) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1248-count-number-of-nice-subarrays) |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/1757-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
