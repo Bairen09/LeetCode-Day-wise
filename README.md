@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0344-reverse-string) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0213-house-robber-ii) |
