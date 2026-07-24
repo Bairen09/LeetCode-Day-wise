@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0075-sort-colors) |
+| [0139-word-break](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0198-house-robber) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0160-intersection-of-two-linked-lists) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0383-ransom-note) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0213-house-robber-ii) |
@@ -338,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0131-palindrome-partitioning) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
