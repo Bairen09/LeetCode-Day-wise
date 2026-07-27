@@ -71,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0337-house-robber-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0337-house-robber-iii) |
 ## Breadth-First Search
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0337-house-robber-iii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0337-house-robber-iii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
