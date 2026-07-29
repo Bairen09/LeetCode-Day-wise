@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
