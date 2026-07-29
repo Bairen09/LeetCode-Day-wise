@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0144-binary-tree-preorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0703-kth-largest-element-in-a-stream) |
