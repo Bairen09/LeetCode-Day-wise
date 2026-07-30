@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0098-validate-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
