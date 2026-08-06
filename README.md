@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0845-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0875-koko-eating-bananas) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -389,8 +392,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
