@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0209-minimum-size-subarray-sum) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0295-find-median-from-data-stream) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0387-first-unique-character-in-a-string) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0973-k-closest-points-to-origin) |
@@ -405,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0547-number-of-provinces) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Bairen09/LeetCode-Day-wise/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
